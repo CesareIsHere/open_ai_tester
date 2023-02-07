@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.emilianocesare.open_ai_tester">
+    package="com.cesareishere.open_ai_tester">
    <application
         android:label="open_ai_tester"
         android:name="${applicationName}"

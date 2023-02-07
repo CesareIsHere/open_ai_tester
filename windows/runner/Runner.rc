@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "dio_chat_ai" "\0"
+            VALUE "CompanyName", "com.cesareishere" "\0"
+            VALUE "FileDescription", "open_ai_tester" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dio_chat_ai" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dio_chat_ai.exe" "\0"
-            VALUE "ProductName", "dio_chat_ai" "\0"
+            VALUE "InternalName", "open_ai_tester" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.cesareishere. All rights reserved." "\0"
+            VALUE "OriginalFilename", "open_ai_tester.exe" "\0"
+            VALUE "ProductName", "open_ai_tester" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

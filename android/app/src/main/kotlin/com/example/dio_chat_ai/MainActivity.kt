@@ -1,4 +1,4 @@
-package com.example.dio_chat_ai
+package com.cesareishere.open_ai_tester
 
 import io.flutter.embedding.android.FlutterActivity
 

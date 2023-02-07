@@ -2,6 +2,10 @@
 
 Configure and test your OpenAi bot by using this simple application.
 
+![homepage](https://user-images.githubusercontent.com/74298270/217361290-342c3f1c-d369-4518-9094-86f496db3d75.png)
+![settings](https://user-images.githubusercontent.com/74298270/217361312-b2ac5efb-75f0-4f06-a6c0-7f82ff208fab.png)
+
+
 ## 🔨 Installation
 
 In order to use this application make sure that you have installed Flutter on your machine and then run on a console the following command, while being inside folder directory.
